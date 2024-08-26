@@ -1,2 +1,2 @@
 # YAC4DC
-Yet Another CRM 4or Dental Clicic
+Yet Another CRM 4or Dental Clinic
